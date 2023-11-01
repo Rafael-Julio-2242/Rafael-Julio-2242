@@ -16,9 +16,9 @@ Tecnologias que eu utilizo e estudo:
 
 
 Fique a vontade para olhar os meus trabalhos!
-<!--
+
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Julio-2242&show_icons=true&theme=radical)
-->
+
 
 
 <!---
