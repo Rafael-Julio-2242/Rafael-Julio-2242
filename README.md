@@ -10,7 +10,7 @@ No momento estou desenvolvendo um jogo e estudando bastante sobre os frameworks 
 O jogo que estou desenvolvendo atualmente é utilizando o GameMaker, mas futuramente caso eu precise desenvoler jogos
 pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
   
-<h1>TechStack: <img src="#" /></h1>
+<h1>TechStack: <img src="#" height="80px" /></h1>
 
 <div>
 
@@ -21,8 +21,7 @@ pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="80px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" height="80px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flutter/flutter-plain.svg" height="80px" />
-<img src="![image](https://github.com/Rafael-Julio-2242/Rafael-Julio-2242/assets/140743082/279af616-a7fa-413b-b621-6edcf5fbf3af)
-" height="80px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" height="80px" />
 
 </div>
 
