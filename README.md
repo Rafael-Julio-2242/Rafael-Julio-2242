@@ -12,7 +12,7 @@ pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
   
 <h1>TechStack: <img src="#" height="80px" /></h1>
 
-<div>
+<div style="border: 20px solid purple">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="80px"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="80px"/> 
