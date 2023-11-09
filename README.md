@@ -1,4 +1,5 @@
 <h1> Welcome </h1>
+<h2>Software Engineer</h2>
 Me chamo Rafael Julio e sou desenvolvedor FullStack freelancer e continuo estudando para aprimorar meu conhecimento. 
 Posso construir os sistemas e soluções que você precisar, incluindo:
 
@@ -7,9 +8,7 @@ Posso construir os sistemas e soluções que você precisar, incluindo:
 - Desenvolvimento de sistemas para Banco de Dados
 - Desenvolvimento de jogos como programador
 
-No momento estou desenvolvendo um jogo e estudando bastante sobre os frameworks da tecnologia .NET
-O jogo que estou desenvolvendo atualmente é utilizando o GameMaker, mas futuramente caso eu precise desenvoler jogos
-pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
+No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
   
 <h1>TechStack: <img src="#" height="80px" /></h1>
 
