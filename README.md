@@ -13,8 +13,7 @@ pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
 Tecnologias que eu utilizo e estudo:
 
 <div>
-
-
+  
 <img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" height="80px" />
   
 </div>
