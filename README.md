@@ -4,7 +4,7 @@
 </ul>
 Me chamo Rafael Julio e sou desenvolvedor FullStack freelancer e continuo estudando para aprimorar meu conhecimento. 
 Posso construir os sistemas e soluções que você precisar, incluindo:
-
+<br/>
 - Criação de sites
 - Desenvolvimento de aplicativos para Desktop e mobile
 - Desenvolvimento de sistemas para Banco de Dados
