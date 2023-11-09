@@ -10,7 +10,7 @@ No momento estou desenvolvendo um jogo e estudando bastante sobre os frameworks 
 O jogo que estou desenvolvendo atualmente é utilizando o GameMaker, mas futuramente caso eu precise desenvoler jogos
 pretendo utilizar tecnologias que sejam voltadas ao C# ou C++.
   
-<h1>TechStack: <img src="" /></h1>
+<h1>TechStack: <img src="#" /></h1>
 
 <div>
 
