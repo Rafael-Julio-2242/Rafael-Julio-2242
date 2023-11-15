@@ -24,7 +24,6 @@ No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="80px"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="80px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" height="80px"/> 
 
 </div>
 <div>
@@ -32,6 +31,11 @@ No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="80px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" height="80px" />
 </div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" height="80px"/> 
+</div>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" height="80px" />
 Fique a vontade para olhar os meus trabalhos!
 
