@@ -38,7 +38,7 @@ No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="80px"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" height="80px" style="background-color: red; padding: 15;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" height="80px"/>
 Fique a vontade para olhar os meus trabalhos!
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Julio-2242&show_icons=true&theme=radical)
