@@ -9,7 +9,6 @@ Posso construir os sistemas e soluções que você precisar, incluindo:
 - Criação de sites
 - Desenvolvimento de aplicativos para Desktop e mobile
 - Desenvolvimento de sistemas para Banco de Dados
-- Desenvolvimento de jogos como programador
 
 No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
   
