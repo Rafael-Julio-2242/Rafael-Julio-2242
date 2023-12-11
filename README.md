@@ -29,6 +29,7 @@ No momento estou trabalhando em projetos utilizando Flutter e estudando GO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="80px"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="80px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" height="80px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="80px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="80px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="80px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="100px" />
