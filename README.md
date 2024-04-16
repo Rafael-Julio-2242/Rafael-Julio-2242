@@ -3,9 +3,7 @@
   <li>Software Engineer </li>
 </ul>
 
-Someone whoo knows about codding and developing, i work today with Web Developing and bug bounty in free time
-
-Having Knowledge on a code language help's me in pentesting and bug bounty, so it ends up being ṕretty useful
+Someone whoo knows about codding and developing, i work today with Full Stack Web Development
 
 At the moment, a technology that I have been studying is Rust
 
