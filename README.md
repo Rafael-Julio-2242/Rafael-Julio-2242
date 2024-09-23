@@ -14,6 +14,25 @@
 
 
 
+<h1>Projetos</h1>
+
+<h2>Aplicativo para Gestão de Propriedades</h2>
+
+![GestaoPropriedadeHome](https://github.com/user-attachments/assets/6d6f605b-3823-434a-ab7a-6b00d6626f5e)
+
+![GestaoPropriedadeNovaPropriedade](https://github.com/user-attachments/assets/83cdd1a6-bf3f-4b1b-a8ab-f557465dbf4b)
+
+![GestaoPropriedadeDetalhesPropriedade](https://github.com/user-attachments/assets/f1215565-2afe-46b8-92cc-b0b59cf35af1)
+
+![GestaoPropriedadeDocumentos](https://github.com/user-attachments/assets/db799c12-581b-482f-9375-be254bee9208)
+
+![GestãoPropriedadeAdicionarDocumentos](https://github.com/user-attachments/assets/46a748fd-2e68-4e54-81f3-5b34bd47258b)
+
+![GestaoPropriedadeApagarDocumento](https://github.com/user-attachments/assets/c841e1cd-a213-45f8-b2f4-0ae1fd36ea3f)
+
+
+<a href='https://drive.google.com/file/d/1aR01Zn_4R0QrfYRFy7OfhmfczaqJRjej/view?usp=sharing' target='_blank'>Link para o Vídeo</a>
+
 
 
 
